@@ -126,3 +126,6 @@ alias sku='skills-update'
 alias skst='skills-stats'
 alias skp='skills-path'
 
+# Quick Reference Menu
+source "$HOME/skills-quick-ref.sh" 2>/dev/null || true
+

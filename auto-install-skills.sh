@@ -34,6 +34,12 @@ if [ ! -d "$SKILLS_DIR" ]; then
     }
 fi
 
+# Download quick reference
+if [ -f "$SKILLS_DIR/skills-quick-ref.sh" ]; then
+    cp "$SKILLS_DIR/skills-quick-ref.sh" "$HOME/skills-quick-ref.sh"
+    chmod +x "$HOME/skills-quick-ref.sh"
+fi
+
 # Create integration script
 cat > "$HOME/.skills-integration.sh" << 'EOF'
 # Skill Arsenal Integration - Auto-loaded
@@ -117,6 +123,9 @@ alias sks='skills-search'
 alias sku='skills-update'
 alias skst='skills-stats'
 alias skp='skills-path'
+
+# Quick Reference Menu
+source "$HOME/skills-quick-ref.sh" 2>/dev/null || true
 EOF
 
 # Add to bashrc if not present
