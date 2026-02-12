@@ -1,0 +1,1202 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-02-11",
+  "total_skills": 55,
+  "categories": {
+    "analysis-skills": [
+      "client-intelligence",
+      "get-to-know-a-client",
+      "investigate-before-recommend",
+      "production-system-audit",
+      "similarweb-analytics",
+      "stock-analysis",
+      "system-architect",
+      "system-mapper"
+    ],
+    "automation-skills": [
+      "autonomous-github-sync",
+      "autonomous-sync-script",
+      "github-gem-seeker",
+      "organize-github-repos"
+    ],
+    "design-skills": [
+      "brainstorm-logos",
+      "brand-driven-ux-overhaul",
+      "excel-generator",
+      "inspirational-music-video-production",
+      "video-generator"
+    ],
+    "development-skills": [
+      "multiplayer-game-builder",
+      "promo-code-system",
+      "realistic-ai-persona-builder",
+      "role-based-access-control",
+      "vertical-expansion-blueprint"
+    ],
+    "integration-skills": [
+      "manus-mcp-configurator",
+      "mcp-auto-recovery",
+      "mcp-builder",
+      "mcp-connector-tester",
+      "mcp-ecosystem-optimizer",
+      "voice-ai-integration"
+    ],
+    "specialized": [],
+    "tier1-foundation": [
+      "api-endpoint-builder",
+      "database-schema-generator",
+      "testing-framework"
+    ],
+    "tier2-automation": [
+      "deployment-automation",
+      "error-monitoring-setup",
+      "github-workflow-automation"
+    ],
+    "tier3-advanced": [
+      "analytics-dashboard",
+      "email-system-builder",
+      "feature-flag-system",
+      "user-authentication-system"
+    ],
+    "tier4-specialized": [
+      "cron-job-scheduler",
+      "file-upload-system",
+      "notification-system",
+      "payment-integration",
+      "search-implementation"
+    ],
+    "utility-skills": [
+      "internet-skill-finder",
+      "project-handoff-ingestion",
+      "serverless-debugging",
+      "skill-creator",
+      "skill-demo-builder"
+    ],
+    "workflow-skills": [
+      "brainstorming",
+      "feature-verification",
+      "skill-development-workflow",
+      "subagent-driven-development",
+      "systematic-debugging",
+      "systematic-feature-builder",
+      "writing-plans"
+    ]
+  },
+  "skills": {
+    "client-intelligence": {
+      "name": "client-intelligence",
+      "description": "Deep research on companies, industries, and competitive landscapes. Provides company profiles, traffic data, industry trends, and tailored approach recommendations. Use when preparing for client meetings, researching prospects, or analyzing market opportunities.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "analysis-skills"
+    },
+    "get-to-know-a-client": {
+      "name": "get-to-know-a-client",
+      "description": "Deep client analysis, product design, and implementation planning. Use when analyzing client needs, designing solutions, creating technical architecture, or building implementation guides for client projects. Combines pattern recognition, solution design, and step-by-step build plans.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "analysis-skills"
+    },
+    "investigate-before-recommend": {
+      "name": "investigate-before-recommend",
+      "description": "Prevent AI drift by investigating existing infrastructure before making recommendations. Use when: analyzing user's systems, recommending tools/integrations, proposing architecture changes, or any time you're about to suggest adding something that might already exist.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "analysis-skills"
+    },
+    "production-system-audit": {
+      "name": "production-system-audit",
+      "description": "Comprehensive system audit methodology for production web applications. Use when auditing systems before launch, identifying technical debt, troubleshooting systematic issues, preparing for security reviews, or creating improvement roadmaps. Systematically audits database schema, API endpoints, external integrations, performance, security, and monitoring across all layers.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "analysis-skills"
+    },
+    "similarweb-analytics": {
+      "name": "similarweb-analytics",
+      "description": "Analyze websites and domains using SimilarWeb traffic data. Get traffic metrics, engagement stats, global rankings, traffic sources, and geographic distribution for comprehensive website research.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "analysis-skills"
+    },
+    "stock-analysis": {
+      "name": "stock-analysis",
+      "description": "Analyze stocks and companies using financial market data. Get company profiles, technical insights, price charts, insider holdings, and SEC filings for comprehensive stock research.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "analysis-skills"
+    },
+    "system-architect": {
+      "name": "system-architect",
+      "description": "Design complex systems from vision to validated architecture using pattern recognition, wisdom extraction, and challenge-driven validation. Use when building infrastructure, organizational systems, or any complex architecture that needs to survive hard questions before implementation.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "analysis-skills"
+    },
+    "system-mapper": {
+      "name": "system-mapper",
+      "description": "Transform complex problems into visual system dynamics diagrams. Identifies feedback loops, stocks/flows, delays, and leverage points. Use when analyzing systems, mapping organizational dynamics, or visualizing causal relationships.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "analysis-skills"
+    },
+    "autonomous-github-sync": {
+      "name": "autonomous-github-sync",
+      "description": "Autonomous GitHub commit and push operations using Google Drive as an intermediary. Use when you need to commit and push code changes to the user's GitHub repository without manual intervention. Works by syncing files through Google Drive to the user's local machine, then committing and pushing automatically.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "automation-skills"
+    },
+    "autonomous-sync-script": {
+      "name": "autonomous-sync-script",
+      "description": "Automate GitHub sync via Google Drive with a single command. Use when you need to commit and push code/skills to GitHub without manual file transfer. Uploads to Google Drive, then provides a one-line command for automatic commit and push.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "automation-skills"
+    },
+    "github-gem-seeker": {
+      "name": "github-gem-seeker",
+      "description": ">",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "automation-skills"
+    },
+    "organize-github-repos": {
+      "name": "organize-github-repos",
+      "description": "Verify and maintain alignment between Supabase (Maverick Town) and connected GitHub repositories to prevent data loss from miscommunication. Use when you need to audit repository states, detect misalignments, or ensure data integrity across GitHub and Supabase.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "automation-skills"
+    },
+    "brainstorm-logos": {
+      "name": "brainstorm-logos",
+      "description": "Deep strategic brainstorming with pattern recognition and execution planning. Use this skill AFTER basic brainstorming when user needs to structure raw ideas, reveal hidden patterns, extract wisdom, and create actionable multi-phase execution plans. Complements the brainstorming skill by adding deep analysis layer.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "design-skills"
+    },
+    "brand-driven-ux-overhaul": {
+      "name": "brand-driven-ux-overhaul",
+      "description": "Systematic UX overhaul workflow driven by brand identity and user feedback. Use when redesigning interfaces, rebranding applications, simplifying navigation, or improving visual identity. Includes brainstorming methodology, design system creation, and implementation planning.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "design-skills"
+    },
+    "excel-generator": {
+      "name": "excel-generator",
+      "description": "Professional Excel spreadsheet creation with a focus on aesthetics and data analysis. Use when creating spreadsheets for organizing, analyzing, and presenting structured data in a clear and professional format.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "design-skills"
+    },
+    "inspirational-music-video-production": {
+      "name": "inspirational-music-video-production",
+      "description": "Professional workflow for creating inspirational music videos with emotional arc mapping, symbolic visual vocabulary, cultural symbolism integration, and music-to-visual synchronization. Use when creating motivational videos, transformation narratives, spiritual journey videos, or any music video meant to inspire and uplift.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "design-skills"
+    },
+    "video-generator": {
+      "name": "video-generator",
+      "description": "Professional AI video production workflow. Use when creating videos, short films, commercials, or any video content using AI generation tools.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "design-skills"
+    },
+    "multiplayer-game-builder": {
+      "name": "multiplayer-game-builder",
+      "description": "Build multiplayer turn-based games using template-based rapid development, TDD, and real-time Socket.IO integration. Use when creating card games, board games, or any turn-based multiplayer game with real-time synchronization.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "development-skills"
+    },
+    "promo-code-system": {
+      "name": "promo-code-system",
+      "description": "Add, manage, and track promotional/discount codes in web applications. Use when adding promo codes to existing apps, creating discount code systems, tracking code usage, implementing coupon functionality, managing promotional campaigns, or when users ask about discount codes, free access codes, or promotional features.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "development-skills"
+    },
+    "realistic-ai-persona-builder": {
+      "name": "realistic-ai-persona-builder",
+      "description": "Build realistic, challenging AI personas with resistance-rapport dynamics for training scenarios. Use when creating AI personas that should resist, challenge, and make users work for progress (sales training, interview practice, negotiation training, therapy practice). NOT for helpful AI assistants.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "development-skills"
+    },
+    "role-based-access-control": {
+      "name": "role-based-access-control",
+      "description": "Implement role-based access control (RBAC) in web applications using tRPC and React. Use when adding admin/manager-only features, restricting endpoints by user role, or implementing permission systems in full-stack TypeScript applications.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "development-skills"
+    },
+    "vertical-expansion-blueprint": {
+      "name": "vertical-expansion-blueprint",
+      "description": "Manual guide for adapting AI roleplay training platforms to new vertical industries (dating, therapy, sales, etc.) with complete config examples and step-by-step cloning instructions",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "development-skills"
+    },
+    "manus-mcp-configurator": {
+      "name": "manus-mcp-configurator",
+      "description": "Automate Manus MCP server configuration. Use when adding, removing, listing, or validating MCP servers in Manus settings without manual JSON editing.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "integration-skills"
+    },
+    "mcp-auto-recovery": {
+      "name": "mcp-auto-recovery",
+      "description": "Automatically diagnose and recover from MCP server connection issues. Use when any `manus-mcp-cli` command fails due to connection, authentication, or availability errors.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "integration-skills"
+    },
+    "mcp-builder": {
+      "name": "mcp-builder",
+      "description": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK).",
+      "tags": [
+        "mcp",
+        "integration",
+        "api"
+      ],
+      "time_saved": "3 hours",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 4,
+      "status": "production",
+      "category": "integration-skills"
+    },
+    "mcp-connector-tester": {
+      "name": "mcp-connector-tester",
+      "description": "Test and document MCP (Model Context Protocol) connectors. Use when users request to test, explore, demonstrate, or document an MCP connector's capabilities, authentication setup, or features.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "integration-skills"
+    },
+    "mcp-ecosystem-optimizer": {
+      "name": "mcp-ecosystem-optimizer",
+      "description": ">",
+      "tags": [
+        "mcp",
+        "optimization",
+        "ecosystem"
+      ],
+      "time_saved": "2 hours",
+      "dependencies": [],
+      "complements": [
+        "mcp-builder",
+        "mcp-connector-tester"
+      ],
+      "used_by": [],
+      "quality_rating": 5,
+      "status": "production",
+      "category": "integration-skills"
+    },
+    "voice-ai-integration": {
+      "name": "voice-ai-integration",
+      "description": "Build voice AI training platforms with Hume EVI, Twilio, and tRPC. Use when creating roleplay systems, voice call integrations, phone-based training apps, or conversational AI platforms with emotional intelligence.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "integration-skills"
+    },
+    "api-endpoint-builder": {
+      "name": "api-endpoint-builder",
+      "description": "Generate production-ready API endpoints from natural language descriptions. Supports Next.js App Router, tRPC, and Express. Includes authentication, validation, error handling, and best practices. Use when building REST or tRPC APIs.",
+      "tags": [
+        "api",
+        "backend",
+        "trpc",
+        "express",
+        "endpoints"
+      ],
+      "time_saved": "45 minutes",
+      "dependencies": [
+        "database-schema-generator"
+      ],
+      "complements": [
+        "testing-framework",
+        "user-authentication-system"
+      ],
+      "used_by": [],
+      "quality_rating": 5,
+      "status": "production",
+      "category": "tier1-foundation"
+    },
+    "database-schema-generator": {
+      "name": "database-schema-generator",
+      "description": "Generate PostgreSQL/Supabase database schemas from natural language descriptions. Use when creating new databases, adding tables to existing projects, or designing data models. Includes RLS policies, TypeScript types, and migration files.",
+      "tags": [
+        "database",
+        "schema",
+        "postgres",
+        "supabase",
+        "sql"
+      ],
+      "time_saved": "1.5 hours",
+      "dependencies": [],
+      "complements": [
+        "api-endpoint-builder",
+        "testing-framework"
+      ],
+      "used_by": [],
+      "quality_rating": 5,
+      "status": "production",
+      "category": "tier1-foundation"
+    },
+    "testing-framework": {
+      "name": "testing-framework",
+      "description": "Generate comprehensive tests (unit, integration, E2E) from descriptions or source code. Supports Vitest, Jest, and Playwright. Includes mocking, assertions, and coverage configuration. Use when writing tests for functions, APIs, or user flows.",
+      "tags": [
+        "testing",
+        "qa",
+        "jest",
+        "pytest",
+        "tdd"
+      ],
+      "time_saved": "30 minutes",
+      "dependencies": [],
+      "complements": [
+        "api-endpoint-builder",
+        "database-schema-generator"
+      ],
+      "used_by": [],
+      "quality_rating": 5,
+      "status": "production",
+      "category": "tier1-foundation"
+    },
+    "deployment-automation": {
+      "name": "deployment-automation",
+      "description": "One-command deployment to Vercel, Railway, Netlify, and Heroku",
+      "tags": [
+        "deployment",
+        "ci-cd",
+        "automation",
+        "vercel",
+        "docker"
+      ],
+      "time_saved": "2 hours",
+      "dependencies": [
+        "testing-framework"
+      ],
+      "complements": [
+        "github-workflow-automation",
+        "error-monitoring-setup"
+      ],
+      "used_by": [],
+      "quality_rating": 5,
+      "status": "production",
+      "category": "tier2-automation"
+    },
+    "error-monitoring-setup": {
+      "name": "error-monitoring-setup",
+      "description": "Automated Sentry and error tracking setup for production applications",
+      "tags": [
+        "monitoring",
+        "errors",
+        "sentry",
+        "logging"
+      ],
+      "time_saved": "45 minutes",
+      "dependencies": [],
+      "complements": [
+        "deployment-automation"
+      ],
+      "used_by": [],
+      "quality_rating": 5,
+      "status": "production",
+      "category": "tier2-automation"
+    },
+    "github-workflow-automation": {
+      "name": "github-workflow-automation",
+      "description": "Automate Git commits, pull requests, releases, and CI/CD workflows",
+      "tags": [
+        "github",
+        "ci-cd",
+        "automation",
+        "workflows"
+      ],
+      "time_saved": "1 hour",
+      "dependencies": [],
+      "complements": [
+        "deployment-automation"
+      ],
+      "used_by": [],
+      "quality_rating": 5,
+      "status": "production",
+      "category": "tier2-automation"
+    },
+    "analytics-dashboard": {
+      "name": "analytics-dashboard",
+      "description": "User behavior tracking and analytics dashboards",
+      "tags": [
+        "analytics",
+        "dashboard",
+        "metrics",
+        "visualization"
+      ],
+      "time_saved": "2 hours",
+      "dependencies": [
+        "database-schema-generator",
+        "api-endpoint-builder"
+      ],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 5,
+      "status": "production",
+      "category": "tier3-advanced"
+    },
+    "email-system-builder": {
+      "name": "email-system-builder",
+      "description": "Transactional and marketing emails with templates and tracking",
+      "tags": [
+        "email",
+        "notifications",
+        "messaging",
+        "sendgrid"
+      ],
+      "time_saved": "1.5 hours",
+      "dependencies": [
+        "database-schema-generator"
+      ],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 5,
+      "status": "production",
+      "category": "tier3-advanced"
+    },
+    "feature-flag-system": {
+      "name": "feature-flag-system",
+      "description": "Toggle features without deployment using feature flags",
+      "tags": [
+        "feature-flags",
+        "configuration",
+        "deployment"
+      ],
+      "time_saved": "1 hour",
+      "dependencies": [
+        "database-schema-generator",
+        "api-endpoint-builder"
+      ],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 5,
+      "status": "production",
+      "category": "tier3-advanced"
+    },
+    "user-authentication-system": {
+      "name": "user-authentication-system",
+      "description": "Complete authentication with OAuth, session management, and security",
+      "tags": [
+        "auth",
+        "authentication",
+        "security",
+        "oauth",
+        "jwt"
+      ],
+      "time_saved": "3 hours",
+      "dependencies": [
+        "database-schema-generator",
+        "api-endpoint-builder"
+      ],
+      "complements": [
+        "testing-framework"
+      ],
+      "used_by": [],
+      "quality_rating": 5,
+      "status": "production",
+      "category": "tier3-advanced"
+    },
+    "cron-job-scheduler": {
+      "name": "cron-job-scheduler",
+      "description": "Background jobs and scheduled tasks",
+      "tags": [
+        "cron",
+        "scheduling",
+        "jobs",
+        "automation"
+      ],
+      "time_saved": "1.5 hours",
+      "dependencies": [
+        "database-schema-generator",
+        "api-endpoint-builder"
+      ],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 5,
+      "status": "production",
+      "category": "tier4-specialized"
+    },
+    "file-upload-system": {
+      "name": "file-upload-system",
+      "description": "S3/R2 file uploads with optimization and security",
+      "tags": [
+        "files",
+        "uploads",
+        "storage",
+        "s3"
+      ],
+      "time_saved": "2 hours",
+      "dependencies": [
+        "database-schema-generator",
+        "api-endpoint-builder"
+      ],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 5,
+      "status": "production",
+      "category": "tier4-specialized"
+    },
+    "notification-system": {
+      "name": "notification-system",
+      "description": "In-app, push, and email notifications",
+      "tags": [
+        "notifications",
+        "alerts",
+        "real-time"
+      ],
+      "time_saved": "2 hours",
+      "dependencies": [
+        "database-schema-generator",
+        "api-endpoint-builder"
+      ],
+      "complements": [
+        "email-system-builder"
+      ],
+      "used_by": [],
+      "quality_rating": 5,
+      "status": "production",
+      "category": "tier4-specialized"
+    },
+    "payment-integration": {
+      "name": "payment-integration",
+      "description": "Stripe payment integration with checkout and subscriptions",
+      "tags": [
+        "payments",
+        "stripe",
+        "billing",
+        "subscriptions"
+      ],
+      "time_saved": "4 hours",
+      "dependencies": [
+        "database-schema-generator",
+        "api-endpoint-builder"
+      ],
+      "complements": [
+        "user-authentication-system"
+      ],
+      "used_by": [],
+      "quality_rating": 5,
+      "status": "production",
+      "category": "tier4-specialized"
+    },
+    "search-implementation": {
+      "name": "search-implementation",
+      "description": "Full-text search with Algolia/Typesense",
+      "tags": [
+        "search",
+        "elasticsearch",
+        "full-text"
+      ],
+      "time_saved": "3 hours",
+      "dependencies": [
+        "database-schema-generator",
+        "api-endpoint-builder"
+      ],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 5,
+      "status": "production",
+      "category": "tier4-specialized"
+    },
+    "internet-skill-finder": {
+      "name": "internet-skill-finder",
+      "description": "Search and recommend Agent Skills from verified GitHub repositories. Use when users ask to find, discover, search for, or recommend skills/plugins for specific tasks, domains, or workflows.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "utility-skills"
+    },
+    "project-handoff-ingestion": {
+      "name": "project-handoff-ingestion",
+      "description": "Systematic ingestion and verification of handoff projects from other development environments (Cursor, VS Code, etc.). Use when receiving project handoffs, verifying deployment status, analyzing codebases for the first time, or creating comprehensive system documentation for inherited projects.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "utility-skills"
+    },
+    "serverless-debugging": {
+      "name": "serverless-debugging",
+      "description": "Debug serverless and edge functions where traditional logging is limited. Use when features are deployed but not triggering, logs are missing, or runtime behavior differs from expectations in Supabase Edge Functions, AWS Lambda, Cloudflare Workers, or similar platforms.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "utility-skills"
+    },
+    "skill-creator": {
+      "name": "skill-creator",
+      "description": "Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Manus's capabilities with specialized knowledge, workflows, or tool integrations.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "utility-skills"
+    },
+    "skill-demo-builder": {
+      "name": "skill-demo-builder",
+      "description": "Systematic workflow for creating excellent demonstrations of skills with complementary examples, comprehensive documentation, and professional packaging. Use when you need to showcase a skill's capabilities, create demo projects, or build reference implementations.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "utility-skills"
+    },
+    "brainstorming": {
+      "name": "brainstorming",
+      "description": "You MUST use this before any creative work - creating features, building components, adding functionality, or modifying behavior. Explores user intent, requirements and design before implementation.",
+      "tags": [
+        "workflow",
+        "planning",
+        "requirements",
+        "design"
+      ],
+      "time_saved": "30 minutes",
+      "dependencies": [],
+      "complements": [
+        "writing-plans",
+        "systematic-feature-builder"
+      ],
+      "used_by": [],
+      "quality_rating": 4,
+      "status": "production",
+      "category": "workflow-skills"
+    },
+    "feature-verification": {
+      "name": "feature-verification",
+      "description": "Systematic verification of newly implemented features using multi-layer testing. Use when verifying features work after implementation, debugging \"should work but doesn't\" issues, validating deployments, or ensuring code changes are correctly deployed and functional.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "workflow-skills"
+    },
+    "skill-development-workflow": {
+      "name": "skill-development-workflow",
+      "description": "Automate the initial setup of a new skill. Use when you want to create a new skill from scratch.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "workflow-skills"
+    },
+    "subagent-driven-development": {
+      "name": "subagent-driven-development",
+      "description": "A systematic, phase-based approach for complex software development tasks. Use when building multi-component applications, implementing features with many moving parts, or when the user requests a highly organized and methodical development process. This skill is ideal for projects requiring detailed planning, execution tracking, and comprehensive documentation.",
+      "tags": [],
+      "time_saved": "unknown",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 3,
+      "status": "production",
+      "category": "workflow-skills"
+    },
+    "systematic-debugging": {
+      "name": "systematic-debugging",
+      "description": "Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes",
+      "tags": [
+        "debugging",
+        "troubleshooting",
+        "workflow"
+      ],
+      "time_saved": "1 hour",
+      "dependencies": [],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 4,
+      "status": "production",
+      "category": "workflow-skills"
+    },
+    "systematic-feature-builder": {
+      "name": "systematic-feature-builder",
+      "description": "Systematic approach to implementing features with detailed planning, tracking, and testing. Use when building new features, adding functionality to existing projects, implementing multi-step requirements, or when user requests organized, methodical development workflow.",
+      "tags": [
+        "workflow",
+        "features",
+        "development"
+      ],
+      "time_saved": "2 hours",
+      "dependencies": [
+        "brainstorming",
+        "writing-plans"
+      ],
+      "complements": [],
+      "used_by": [],
+      "quality_rating": 5,
+      "status": "production",
+      "category": "workflow-skills"
+    },
+    "writing-plans": {
+      "name": "writing-plans",
+      "description": "Use when you have a spec or requirements for a multi-step task, before touching code",
+      "tags": [
+        "planning",
+        "workflow",
+        "documentation"
+      ],
+      "time_saved": "45 minutes",
+      "dependencies": [
+        "brainstorming"
+      ],
+      "complements": [
+        "systematic-feature-builder"
+      ],
+      "used_by": [],
+      "quality_rating": 4,
+      "status": "production",
+      "category": "workflow-skills"
+    }
+  },
+  "meta_skills": {},
+  "dependency_graph": {
+    "client-intelligence": {
+      "before": [],
+      "after": []
+    },
+    "get-to-know-a-client": {
+      "before": [],
+      "after": []
+    },
+    "investigate-before-recommend": {
+      "before": [],
+      "after": []
+    },
+    "production-system-audit": {
+      "before": [],
+      "after": []
+    },
+    "similarweb-analytics": {
+      "before": [],
+      "after": []
+    },
+    "stock-analysis": {
+      "before": [],
+      "after": []
+    },
+    "system-architect": {
+      "before": [],
+      "after": []
+    },
+    "system-mapper": {
+      "before": [],
+      "after": []
+    },
+    "autonomous-github-sync": {
+      "before": [],
+      "after": []
+    },
+    "autonomous-sync-script": {
+      "before": [],
+      "after": []
+    },
+    "github-gem-seeker": {
+      "before": [],
+      "after": []
+    },
+    "organize-github-repos": {
+      "before": [],
+      "after": []
+    },
+    "brainstorm-logos": {
+      "before": [],
+      "after": []
+    },
+    "brand-driven-ux-overhaul": {
+      "before": [],
+      "after": []
+    },
+    "excel-generator": {
+      "before": [],
+      "after": []
+    },
+    "inspirational-music-video-production": {
+      "before": [],
+      "after": []
+    },
+    "video-generator": {
+      "before": [],
+      "after": []
+    },
+    "multiplayer-game-builder": {
+      "before": [],
+      "after": []
+    },
+    "promo-code-system": {
+      "before": [],
+      "after": []
+    },
+    "realistic-ai-persona-builder": {
+      "before": [],
+      "after": []
+    },
+    "role-based-access-control": {
+      "before": [],
+      "after": []
+    },
+    "vertical-expansion-blueprint": {
+      "before": [],
+      "after": []
+    },
+    "manus-mcp-configurator": {
+      "before": [],
+      "after": []
+    },
+    "mcp-auto-recovery": {
+      "before": [],
+      "after": []
+    },
+    "mcp-builder": {
+      "before": [],
+      "after": []
+    },
+    "mcp-connector-tester": {
+      "before": [],
+      "after": []
+    },
+    "mcp-ecosystem-optimizer": {
+      "before": [],
+      "after": [
+        "mcp-builder",
+        "mcp-connector-tester"
+      ]
+    },
+    "voice-ai-integration": {
+      "before": [],
+      "after": []
+    },
+    "api-endpoint-builder": {
+      "before": [
+        "database-schema-generator"
+      ],
+      "after": [
+        "testing-framework",
+        "user-authentication-system"
+      ]
+    },
+    "database-schema-generator": {
+      "before": [],
+      "after": [
+        "api-endpoint-builder",
+        "testing-framework"
+      ]
+    },
+    "testing-framework": {
+      "before": [],
+      "after": [
+        "api-endpoint-builder",
+        "database-schema-generator"
+      ]
+    },
+    "deployment-automation": {
+      "before": [
+        "testing-framework"
+      ],
+      "after": [
+        "github-workflow-automation",
+        "error-monitoring-setup"
+      ]
+    },
+    "error-monitoring-setup": {
+      "before": [],
+      "after": [
+        "deployment-automation"
+      ]
+    },
+    "github-workflow-automation": {
+      "before": [],
+      "after": [
+        "deployment-automation"
+      ]
+    },
+    "analytics-dashboard": {
+      "before": [
+        "database-schema-generator",
+        "api-endpoint-builder"
+      ],
+      "after": []
+    },
+    "email-system-builder": {
+      "before": [
+        "database-schema-generator"
+      ],
+      "after": []
+    },
+    "feature-flag-system": {
+      "before": [
+        "database-schema-generator",
+        "api-endpoint-builder"
+      ],
+      "after": []
+    },
+    "user-authentication-system": {
+      "before": [
+        "database-schema-generator",
+        "api-endpoint-builder"
+      ],
+      "after": [
+        "testing-framework"
+      ]
+    },
+    "cron-job-scheduler": {
+      "before": [
+        "database-schema-generator",
+        "api-endpoint-builder"
+      ],
+      "after": []
+    },
+    "file-upload-system": {
+      "before": [
+        "database-schema-generator",
+        "api-endpoint-builder"
+      ],
+      "after": []
+    },
+    "notification-system": {
+      "before": [
+        "database-schema-generator",
+        "api-endpoint-builder"
+      ],
+      "after": [
+        "email-system-builder"
+      ]
+    },
+    "payment-integration": {
+      "before": [
+        "database-schema-generator",
+        "api-endpoint-builder"
+      ],
+      "after": [
+        "user-authentication-system"
+      ]
+    },
+    "search-implementation": {
+      "before": [
+        "database-schema-generator",
+        "api-endpoint-builder"
+      ],
+      "after": []
+    },
+    "internet-skill-finder": {
+      "before": [],
+      "after": []
+    },
+    "project-handoff-ingestion": {
+      "before": [],
+      "after": []
+    },
+    "serverless-debugging": {
+      "before": [],
+      "after": []
+    },
+    "skill-creator": {
+      "before": [],
+      "after": []
+    },
+    "skill-demo-builder": {
+      "before": [],
+      "after": []
+    },
+    "brainstorming": {
+      "before": [],
+      "after": [
+        "writing-plans",
+        "systematic-feature-builder"
+      ]
+    },
+    "feature-verification": {
+      "before": [],
+      "after": []
+    },
+    "skill-development-workflow": {
+      "before": [],
+      "after": []
+    },
+    "subagent-driven-development": {
+      "before": [],
+      "after": []
+    },
+    "systematic-debugging": {
+      "before": [],
+      "after": []
+    },
+    "systematic-feature-builder": {
+      "before": [
+        "brainstorming",
+        "writing-plans"
+      ],
+      "after": []
+    },
+    "writing-plans": {
+      "before": [
+        "brainstorming"
+      ],
+      "after": [
+        "systematic-feature-builder"
+      ]
+    }
+  }
+}
