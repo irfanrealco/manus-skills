@@ -141,3 +141,6 @@ fi
 source "$HOME/.skills-integration.sh" 2>/dev/null
 
 log "✅ Skills installed and ready!"
+log ""
+log "💡 Tip: Enable automatic hourly updates with:"
+log "   bash \$SKILLS_DIR/scripts/enable-auto-skill-updates.sh"
